@@ -1,20 +1,3 @@
-﻿# Expense-Tracker
-
-
-
-Great!
-Aap **README.md** ko informative bana sakte hain.
-Neeche ek **perfect README template** de raha hoon —
-✅ Features
-✅ Setup steps
-✅ Screenshots
-✅ Tech used
-✅ How to run
-✅ Folder structure
-
-Aap copy-paste karke apne project ke hisaab se update kar sakte ho ✅
-
----
 
 # ✅ **README.md (Django Expense Tracker)**
 
@@ -176,5 +159,6 @@ MIT
 
 **Shivam Yadav**
 GitHub → [https://github.com/Shivam-123-yadav](https://github.com/Shivam-123-yadav)
+
 
 
