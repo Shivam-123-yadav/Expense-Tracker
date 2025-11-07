@@ -2,8 +2,6 @@
 
 
 
- <img width="1920" height="969" alt="image" src="https://github.com/user-attachments/assets/a70cc254-609a-47eb-a297-f906e3f861ef" />
-
 Great!
 Aap **README.md** ko informative bana sakte hain.
 Neeche ek **perfect README template** de raha hoon —
@@ -132,12 +130,12 @@ No special setup needed!
 
 ## 🖼️ Screenshots
 
-*Add screenshots here (optional)*
+<img width="1920" height="969" alt="image" src="https://github.com/user-attachments/assets/a70cc254-609a-47eb-a297-f906e3f861ef" />
 
-```
-/screenshots/home.png
-/screenshots/edit.png
-```
+
+<img width="1914" height="967" alt="image" src="https://github.com/user-attachments/assets/f98754f5-7e86-4f92-b61e-3fa9eb539af2" />
+
+
 
 ---
 
@@ -178,4 +176,5 @@ MIT
 
 **Shivam Yadav**
 GitHub → [https://github.com/Shivam-123-yadav](https://github.com/Shivam-123-yadav)
+
 
